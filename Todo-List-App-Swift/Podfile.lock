@@ -1,0 +1,30 @@
+PODS:
+  - Realm (10.18.0):
+    - Realm/Headers (= 10.18.0)
+  - Realm/Headers (10.18.0)
+  - RealmSwift (10.18.0):
+    - Realm (= 10.18.0)
+  - SnapKit (4.0.1)
+  - UICountingLabel (1.4.1)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SnapKit (~> 4.0.0)
+  - UICountingLabel
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - SnapKit
+    - UICountingLabel
+
+SPEC CHECKSUMS:
+  Realm: b8b0a36bf48c39c50fd8cee7ac34005e6d887ddd
+  RealmSwift: fe2f33d731f47aaf4c3618930f9f7cf7b935c33f
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  UICountingLabel: faf890b505d96312e324a86718f031fafffb0ccb
+
+PODFILE CHECKSUM: 47dc5162e26e9fc62bb6005478b254490ca4085c
+
+COCOAPODS: 1.11.2
